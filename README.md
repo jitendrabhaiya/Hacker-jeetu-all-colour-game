@@ -1,2 +1,2 @@
-# Hacker-jeetu-all-colour-game
-This is only education propose apk
+# Jeetu Colour Trading App
+This is a GitHub Actions-enabled Android project to build APK automatically.
